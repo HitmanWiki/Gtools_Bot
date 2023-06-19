@@ -4289,7 +4289,7 @@
                 ADMIN: "0x0000",
                 CHAIN_ID: 1,
                 NETWORK: "main",
-                SOCKET_DAPP_ID: "e72e44c7-d688-4e0e-82a1-6ceb410b2992",
+                SOCKET_DAPP_ID: "fcbefc9c-953d-4917-a209-07bf5a4ad7f8",
                 MIN_SNIPER_VALUE: 0,
                 MIN_SNIPER_VALUE_FOR_COPY_TRADING: .5,
                 MIN_DETAILS_SNIPER_AMOUNT: 0,
@@ -9849,7 +9849,7 @@
             Ta = a("8055"),
             Ca = a.n(Ta);
         const ka = "wss://api-v4.zerion.io/",
-            xa = "Zerion.oSQAHALTonDN9HYZiYSX5k6vnm4GZNcM",
+            xa = "zk_dev_749bc86e06644158935d5f24ed33c087",
             _a = ka;
 
         function Ma(t, e) {

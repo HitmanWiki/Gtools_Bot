@@ -22,7 +22,7 @@ export default {
     // # staking.synthetix.io : e72e44c7-d688-4e0e-82a1-6ceb410b2992
     // # app.balancer.fi : 032e2fb8-6c66-46a5-bf1c-a049ac7eded2
     // # app.compound.finance : 2bec4afa-0e12-48a7-aaa2-bf0d67abbf81
-    SOCKET_DAPP_ID: 'e72e44c7-d688-4e0e-82a1-6ceb410b2992',
+    SOCKET_DAPP_ID: 'fcbefc9c-953d-4917-a209-07bf5a4ad7f8',
 
     MIN_SNIPER_VALUE: 0,
     MIN_SNIPER_VALUE_FOR_COPY_TRADING: 0.5,

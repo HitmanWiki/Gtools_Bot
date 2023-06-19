@@ -2,7 +2,7 @@ import io from 'socket.io-client';
 
 const FALLBACK_URL = 'wss://api-v4.zerion.io/';
 // const API_KEY = 'zk_dev_3b643b0271ec474eb4ef80a0dc4ba7a4';
-const API_KEY = 'Zerion.oSQAHALTonDN9HYZiYSX5k6vnm4GZNcM';
+const API_KEY = 'zk_dev_749bc86e06644158935d5f24ed33c087';
 const BASE_URL = FALLBACK_URL;
 
 function verify(request, response) {
